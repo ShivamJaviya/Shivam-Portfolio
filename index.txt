@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+javiyashivam70@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9909870870
 
 Birthday
-June 23, 1982
+January 12, 2003
 
 Location
-Sacramento, California, USA
+Gandhinagar, Gujrat, India.
 
 # navbar
 
@@ -32,9 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Hello, I am Shivam Javiya, currently pursuing my Master of Science in Information Technology at DAIICT. I completed my Bachelor's degree at Charusat University of Science and Technology. My educational background has equipped me with a strong foundation in various programming languages and technologies such as HTML, CSS, JavaScript, Java, database management, C++, and more.
 
 
 ## service
