@@ -1907,3 +1907,24 @@ textarea.form-input::-webkit-resizer { display: none; }
   opacity: 0;
   transition: opacity 0.5s ease;
 }
+
+
+.showcase {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            align-items: center;
+            margin: 20px;
+        }
+.showcase-item {
+            width: calc(50% - 20px); /* Display 2 items per row */
+            margin: 10px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+.showcase-item img {
+            max-width: 100%;
+            height: auto;
+        }
